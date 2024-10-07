@@ -1,0 +1,111 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #acaba9;
+
+}
+
+header {
+    background-color: #0f0f0f;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+
+
+}
+
+header h1 {
+    margin: 0;
+    font-family: "Bebas Neue", sans-serif;
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    align-items: center;
+    font-size: 19px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+p {
+    background-color: #2c2c2c;
+    color: white;
+    align-items: center;
+    margin: 40px;
+    padding: 5%;
+    font-size: 20px;
+
+
+}
+
+footer {
+    background-color: #000000;
+
+}
+
+footer p {
+    background-color: unset;
+    color: #ffffff;
+    padding: 15px;
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 15px;
+}
+
+h3 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    
+
+}
+
+form label, input {
+    color: white;
+    margin-bottom: 2%;
+}
+
+#ctt {
+    color: white;
+    margin-bottom: 5px;
+padding-top: 5%;
+}
+
+#contato {
+    background-color: #2c2c2c;
+    text-align: center;
+    padding-bottom: 10px;
+    align-items: center;
+    width: 60%;
+    margin-left: 20%;
+}
+#tabela table{
+ 
+ margin-left: 25%;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    /* width: 30px;  */
+    align-items: center;
+    padding: 30px;
+}
+button {
+    margin-top: 5%;
+}
